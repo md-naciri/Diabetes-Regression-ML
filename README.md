@@ -9,7 +9,7 @@ Machine learning project for **diabetes prediction** and **synthetic data regres
 
 ## Setup
 ```bash
-
+git clone https://github.com/md-naciri/Diabetes-Regression-ML
 cd Diabetes-Regression-ML
 pip install -r requirements.txt
 jupyter notebook
